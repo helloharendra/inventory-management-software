@@ -12,6 +12,22 @@ Whether you need a simple stock management application or an advanced multi-ware
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Products</b><br><br><img src="screenshots/2-products.png" alt="Products"></td>
+    <td align="center" width="50%"><b>Movements</b><br><br><img src="screenshots/3-movements.png" alt="Movements"></td>
+  </tr>
+</table>
+
+---
+
 ## What Is Inventory Management Software?
 
 Inventory Management Software is a business application designed to track, organize, and control products, materials, and stock across one or multiple storage locations.
@@ -301,17 +317,3 @@ This repository represents the inventory management software development service
 It is intended as a project and service showcase. It does not grant permission to redistribute, commercially use, or reproduce proprietary source code, designs, or intellectual property.
 
 For licensing or commercial enquiries, contact Naya Prayog Technologies.
-
-<!-- screenshots -->
-## Screenshots
-
-**Dashboard**
-
-![Dashboard](screenshots/1-dashboard.png)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><b>Products</b><br><br><img src="screenshots/2-products.png" alt="Products"></td>
-    <td align="center" width="50%"><b>Movements</b><br><br><img src="screenshots/3-movements.png" alt="Movements"></td>
-  </tr>
-</table>
